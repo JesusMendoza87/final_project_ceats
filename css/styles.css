@@ -1,0 +1,26 @@
+body{
+    /* background-color: black; */
+}
+
+.hero-section{
+    background-image: linear-gradient(to right, white, rgb(20, 231, 20));
+    height: 200px;
+}
+.logo-set{
+    border-radius: 500px;
+    float:left;
+}
+
+.cleaneats{
+    margin-top: 10px;
+}
+
+.text-center{
+    text-align: center;
+}
+.titlealign{
+    margin-left: 430px;
+    font-size: 70px; 
+    color: rgb(43, 124, 84);
+
+}
